@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.component {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.componentName {
+  text-align: left;
+  color: #000;
+  margin-left: 10px;
+}
